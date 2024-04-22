@@ -1,4 +1,0 @@
-repository "PuzzleCity@Indie_Game_Developer_Team_Kothlit_Production@cloud"
-  path "/"
-    br "/main"
-    co "/main"
